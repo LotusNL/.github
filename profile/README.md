@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🪷 Lotus
 
 **Engineering immersive roleplay experiences for [Lotus RP](https://lotusrp.nl) - the premier Dutch GTA V roleplay community.**
@@ -15,5 +13,3 @@
 Lotus Development is the technical backbone behind **Lotus RP**, one of the largest Dutch FiveM roleplay servers. We design, maintain, and innovate high-performance infrastructure, custom game mechanics, and web integrations.
 
 Our mission is to push the boundaries of FiveM roleplay by delivering clean code, robust server architecture, and engaging features tailored specifically to our community's needs.
-
-</div>
